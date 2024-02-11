@@ -24,7 +24,8 @@ Adding Some Shine: Next up, wishlists and a personalized touch with user account
 More Bling on the Horizon: Mobile optimization, payment integrations, and even potential community features are sparkling in the future. Stay tuned!
 
 **Contribution**
-*This project welcomes contributions! Whether you're a coding wizard or a design enthusiast, feel free to:
+
+This project welcomes contributions! Whether you're a coding wizard or a design enthusiast, feel free to:
 Report bugs: Spot a glitch? Help us keep the site polished by letting us know!
 Suggest features: Have an idea to make the shopping experience even more dazzling? Share it!
 Fork and contribute: Get your hands dirty with the code and help us build something amazing together!
@@ -34,7 +35,8 @@ Fork and contribute: Get your hands dirty with the code and help us build someth
 This project is released under the MIT. Feel free to use, modify, and share the code, all while giving credit where it's due!
 
 **Additional Notes**
-*Have any questions or feedback? Don't hesitate to reach out!
+
+Have any questions or feedback? Don't hesitate to reach out!
 
 
 
