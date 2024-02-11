@@ -1,9 +1,8 @@
 # D-Jewells
-Turning code into carats. This project is my attempt at building a user-friendly and engaging jewelry shopping website.
-## Jewelry Shopping Website (Project Name)
 
 **Description:**
 
+Turning code into carats. This project is my attempt at building a user-friendly and engaging jewelry shopping website.
 This repository holds the source code for a **D-Jewells shopping website** currently under development. The goal is to create a **user-friendly and visually appealing platform** for customers to browse and purchase jewelry online.
 
 **Technologies:**
